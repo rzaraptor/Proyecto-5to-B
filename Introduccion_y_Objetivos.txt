@@ -20,7 +20,7 @@ En efecto contribuye y es totalmente esencial para mantener un control efectivo 
 
 \section{Objetivo General}
 
-Implementar una solucion de software que pueda registrar e informar sobre las transacciones financieras y los flujos de efectivo de un individuo por medio del cual pueda emplear la efectividad del caso llevando un registro actualizado y continuo de los ingresos y gastos personales por lo cual este permitira mejorar la condicion y el entorno tecnologico facilitando asi una optima respuesta sobre el medio digital ampliando sus conocimientos en cada recurso obtenido mendiante la recopilacion de datos.
+Implementar una solucion dentro del software que pueda registrar e informar sobre las transacciones financieras y los flujos de efectivo de un individuo por medio del cual pueda emplear la efectividad del caso llevando un registro actualizado y continuo de los ingresos y gastos personales por lo cual este permitira mejorar la condicion y el entorno tecnologico facilitando asi una optima respuesta sobre el medio digital ampliando sus conocimientos en cada recurso obtenido mendiante la recopilacion de datos.
 
 \section{Objetivos Especificos}
 
