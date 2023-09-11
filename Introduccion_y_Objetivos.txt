@@ -27,7 +27,7 @@ Implementar una solucion dentro del software que pueda registrar e informar sobr
 \begin{enumerate}
 \item Evaluar para comprobar los resultados concretos que permitan la maxima utilidad de los medios implementados de esta forma se podra organizar de manera precisa y eficaz todas las transacciones financieras personales obteniendo asi resultados muy favorables mediante un seguimiento de su progreso, permitiendo evaluar el logro de objetivos personales a largo plazo.
 \item Recopilar toda la informacion y datos realizados en el proceso de desarrollo y diseño interactuando de una manera precisa y eficaz para de esta manera concluir proporcionando información relevante para la toma de decisiones y el control de los recursos financieros en el ambito informatico favoreciendo el control activo del avance tecnologico y su desarrollo.
-\item Facilitar la mejora en la toma de decisiones de una forma mas rapida esto  puede proporcionar información relevante para la toma de decisiones em el ambito de la informacion tanto como la planificación de los recursos para obtener una optimizacion de datos con fluidez.
+\item Facilitar la mejora para que de esta forma la toma de decisiones sea mas precisa y mas rapida esto  puede proporcionar información relevante para la toma de decisiones em el ambito de la informacion tanto como la planificación de los recursos para obtener una optimizacion de datos con fluidez.
 \end{enumerate}
 
 \end{document}
