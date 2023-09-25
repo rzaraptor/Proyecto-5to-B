@@ -58,4 +58,12 @@ Implementar una solucion dentro del software que pueda registrar e informar sobr
 \includegraphics[scale=0.48]{22.png}
 \includegraphics[scale=0.48]{23.png}
 \includegraphics[scale=0.48]{24.png}
+\includegraphics[scale=0.48]{25.png}
+\includegraphics[scale=0.48]{26.png}
+\includegraphics[scale=0.48]{27.png}
+\includegraphics[scale=0.48]{28.png}
+\includegraphics[scale=0.48]{29.png}
+\includegraphics[scale=0.48]{30.png}
+\includegraphics[scale=0.48]{31.png}
+\includegraphics[scale=0.48]{32.png}
 \end{document}
