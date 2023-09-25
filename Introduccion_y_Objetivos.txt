@@ -1,9 +1,10 @@
 \documentclass[11pt]{article}
 \usepackage{sectsty}
 \usepackage{graphicx}
+\usepackage[left=2.55cm]{geometry}
 
 \title{Gestion de Contabilidad Personal}
-\author{Nazareno Leidy, Zambrano Tiffany, Sanchez Roberth, Vernaza Romario}
+\author{Nazareno Leidy, Zambrano Tiffany, Sanchez Roberth}
 \date{\today}
 
 \begin{document}
@@ -29,5 +30,10 @@ Implementar una solucion dentro del software que pueda registrar e informar sobr
 \item Recopilar toda la informacion y datos realizados en el proceso de desarrollo y diseño interactuando de una manera precisa y eficaz para de esta manera concluir proporcionando información relevante para la toma de decisiones y el control de los recursos financieros en el ambito informatico favoreciendo el control activo del avance tecnologico y su desarrollo.
 \item Facilitar la mejora para que de esta forma la toma de decisiones sea mas precisa y mas rapida esto  puede proporcionar información relevante para la toma de decisiones em el ambito de la informacion tanto como la planificación de los recursos para obtener una optimizacion de datos con fluidez.
 \end{enumerate}
+
+\section{Modelo del Sistema}
+\includegraphics[scale=0.7]{Gestion de Contabilidad Personal.jpeg}
+\section{Prototipo Web del Sistema}
+\includegraphics[scale=0.50]{1.png}
 
 \end{document}
