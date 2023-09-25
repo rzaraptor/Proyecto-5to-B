@@ -35,5 +35,13 @@ Implementar una solucion dentro del software que pueda registrar e informar sobr
 \includegraphics[scale=0.7]{Gestion de Contabilidad Personal.jpeg}
 \section{Prototipo Web del Sistema}
 \includegraphics[scale=0.50]{1.png}
-
+\includegraphics[scale=0.50]{2.png}
+\includegraphics[scale=0.48]{3.png}
+\includegraphics[scale=0.48]{4.png}
+\includegraphics[scale=0.48]{5.png}
+\includegraphics[scale=0.48]{6.png}
+\includegraphics[scale=0.48]{7.png}
+\includegraphics[scale=0.48]{8.png}
+\includegraphics[scale=0.48]{9.png}
+\includegraphics[scale=0.48]{10.png}
 \end{document}
