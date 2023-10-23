@@ -1,1 +1,22 @@
+\documentclass{article}
+\usepackage{titlesec}
+\usepackage{datetime2}
 
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {}{0em}
+  {\vspace*{\fill}\hrule\vspace{1ex}\filright\centering\MakeUppercase}
+  [{\vspace{1ex}\hrule}]
+\DTMsavedate{mydate}{2023-11-01}
+
+\begin{document}
+
+\vspace*{\fill}
+\section{Especificación de Requisitos de Software}
+Proyecto Marketing Advisor
+\vspace*{\fill}
+\begin{flushright}
+\footnotesize\DTMusedate{mydate}
+\end{flushright}
+
+\end{document}
