@@ -25,3 +25,95 @@ Proyecto Contabilidad Personal
 \newpage
 \section{Introducción}
 La presente investigación busca definir cómo la gestión de contabilidad personal actúa en la vida moderna y de esta manera, cómo mantener un registro financiero organizado y preciso de nuestras actividades económicas individuales en un mundo en constante cambio y con una creciente complejidad financiera en constante cambio.
+\subsection{Propósito}
+En efecto, nuestro propósito en todo este proceso contribuye y es totalmente esencial para mantener un control efectivo sobre nuestras finanzas en un ámbito cada vez más complejo desde el punto de vista financiero.
+
+\subsection{Alcance}
+Se encuentra dirigido al usuario del sistema y le permite establecer y mantener un sistema de gestión financiera efectivo que permita un control más preciso de las finanzas personales.
+
+\subsection{Personal Involucrado}
+A continuación, se presentan los datos de las tres personas involucradas en tres cuadros diferentes:
+
+\begin{table}[h]
+\centering
+\small % Tamaño de letra reducido
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|X|}
+\hline
+Nombre & Leidy Nazareno Díaz \\
+\hline
+Categoría Profesional & Ing. Informática \\
+\hline
+Rol & Diseñadora Web \\
+\hline
+Responsabilidad & Información de contacto \\
+\hline
+Información de Contacto & leidy.nazareno.diaz@utelvt.edu.ec \\
+\hline
+\end{tabularx}
+\end{table}
+
+\begin{table}[h]
+\centering
+\small 
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|X|}
+\hline
+Nombre & Roberth Sánchez Quiñonez \\
+\hline
+Categoría Profesional & Ing. Informática \\
+\hline
+Rol & Analista y documentador \\
+\hline
+Responsabilidad & Toda la documentación y procesos del proyecto \\
+\hline
+Información de Contacto & roberth.sanchez.quinonez@utelvt.edu.ec \\
+\hline
+\end{tabularx}
+\end{table}
+
+\begin{table}[h]
+\centering
+\small 
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|X|}
+\hline
+Nombre & Tiffany Zambrano Ibarra \\
+\hline
+Categoría Profesional & Ing. Informática \\
+\hline
+Rol & Administrador(a) de la Base de Datos \\
+\hline
+Responsabilidad & Conexión de servidores \\
+\hline
+Información de Contacto & tiffany.zambrano.ibarra@utelvt.edu.ec \\
+\hline
+\end{tabularx}
+\end{table}
+
+\subsection{Definiciones, Acrónimos y Abreviaturas}
+
+\subsection{Referencias}
+\subsection{Resumen}
+
+\newpage
+
+\section{Descripción General}
+\subsection{Perspectiva del Producto}
+\subsection{Funcionalidad del Producto}
+\subsection{Características de los Usuarios}
+\subsection{Restricciones}
+\subsection{Suposiciones y Dependencias}
+
+\newpage
+
+\section{Requisitos Específicos}
+\subsection{Requisitos Comunes de las Interfaces}
+\subsubsection{Interfaces de Usuario}
+\subsubsection{Interfaces de Hardware}
+\subsubsection{Interfaces de Software}
+\subsubsection{Interfaces de Comunicación}
+\subsection{Requerimientos Funcionales}
+\subsubsection{Requisito Funcional 1}
+\subsubsection{Requisito Funcional 2}
+\subsubsection{Requisito Funcional 3}
+
+\end{document}
+
