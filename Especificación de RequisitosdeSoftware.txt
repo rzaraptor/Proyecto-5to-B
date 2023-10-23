@@ -1,22 +1,27 @@
 \documentclass{article}
 \usepackage{titlesec}
 \usepackage{datetime2}
+\usepackage{tabularx}
+\usepackage{boldline} 
 
 \titleformat{\section}
   {\normalfont\Large\bfseries}
   {}{0em}
-  {\vspace*{\fill}\hrule\vspace{1ex}\filright\centering\MakeUppercase}
+  {\hrule\vspace{1ex}\filright\centering\MakeUppercase}
   [{\vspace{1ex}\hrule}]
 \DTMsavedate{mydate}{2023-11-01}
 
 \begin{document}
 
-\vspace*{\fill}
-\section{Especificación de Requisitos de Software}
-Proyecto Marketing Advisor
-\vspace*{\fill}
-\begin{flushright}
-\footnotesize\DTMusedate{mydate}
-\end{flushright}
+\section*{\MakeUppercase{Especificación de Requisitos de Software}}
+\addcontentsline{toc}{section}{Especificación de Requisitos de Software}
 
-\end{document}
+Proyecto Contabilidad Personal
+
+\newpage
+
+\tableofcontents
+
+\newpage
+\section{Introducción}
+La presente investigación busca definir cómo la gestión de contabilidad personal actúa en la vida moderna y de esta manera, cómo mantener un registro financiero organizado y preciso de nuestras actividades económicas individuales en un mundo en constante cambio y con una creciente complejidad financiera en constante cambio.
